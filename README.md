@@ -1,7 +1,7 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
 # Del_AI_y 🎯
-
+<img width="1280" alt="poster" src="[https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c](https://drive.google.com/file/d/19JgS7_33D2_bmQeetPEWFGy1uDVWKD5o/view?usp=sharing)">
 
 ## Basic Details
 ### Team Name: SpiralZero
@@ -43,8 +43,6 @@ For Hardware:
 - Specifications: Windows 10+, Unity compatible  
 - Tools Required: Microphone for dictation input 
 
-### Implementation
-For Software:
 # Installation
 # Clone repository
 git clone https://github.com/YourRepo/Del_AI_y.git
