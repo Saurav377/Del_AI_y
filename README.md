@@ -21,7 +21,7 @@ Ever wanted an assistant that misunderstands your requests on purpose, ignores y
 ### The Solution (that nobody asked for)
 Using super complicated algorithms, non-compliant AI technology, Del_AI_y will listen but often misunderstand, respond but often demotivate, and never complete a task without a heavy dose of sarcasm and delays. 
 
-###IMPORTANT: For the app's speech recognition to work
+### IMPORTANT: For the app's speech recognition to work
 1. *Access Settings*: Click on your profile picture or the menu icon, then select "Settings."
 
 2. *Navigate to Privacy*: Look for the "Privacy" section in the settings menu.
