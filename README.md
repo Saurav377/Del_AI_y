@@ -2,7 +2,6 @@
 
 # Del_AI_y 🎯
 
-
 ## Basic Details
 ### Team Name: SpiralZero
 
@@ -26,6 +25,15 @@ Ever wanted an assistant that misunderstands your requests on purpose, ignores y
 ### The Solution (that nobody asked for)
 Using super complicated algorithms, non-compliant AI technology, Del_AI_y will listen but often misunderstand, respond but often demotivate, and never complete a task without a heavy dose of sarcasm and delays. 
 
+### IMPORTANT: For the app's speech recognition to work
+1. *Access Settings*: Click on your profile picture or the menu icon, then select "Settings."
+
+2. *Navigate to Privacy*: Look for the "Privacy" section in the settings menu.
+
+3. *Speech*: Find the "Speech" option. This may be under "Voice activation" or a similar category.
+
+4. *Turn on Speech Recognition*: Toggle the option to enable online speech recognition. You may need to follow prompts to allow permissions.
+
 ## Technical Details
 ### Technologies/Components Used
 For Software:
@@ -39,8 +47,6 @@ For Hardware:
 - Specifications: Windows 10+, Unity compatible  
 - Tools Required: Microphone for dictation input 
 
-### Implementation
-For Software:
 # Installation
 # Clone repository
 git clone https://github.com/YourRepo/Del_AI_y.git
@@ -59,29 +65,6 @@ For Software:
 - https://drive.google.com/file/d/1jN4HETgjftJ4gDAu5Gbw9bRHGe1_SZUx/view?usp=sharing
 
 - https://drive.google.com/file/d/1fqG7hB7lpZ5ph_EG2Q6zwRN1nq1sGp02/view?usp=sharing
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
