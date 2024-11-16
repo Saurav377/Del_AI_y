@@ -12,6 +12,11 @@
 - Member 2: Shalin Philip - Viswajyothi College of Engineering and Technology 
 - Member 3: Leo Gordy - Viswajyothi College of Engineering and Technology 
 
+### Project Demo
+# Video
+[https://youtu.be/VsISW9eV-MM]
+Shows working of the our AI Buddy
+
 ### Project Description
 Del_AI_y is your friendly AI assistant with a twist: instead of helpful, it’s hilariously uncooperative! Del_AI_y embodies the ultimate lazy assistant, perfectly designed to not fulfill your requests and to occasionally throw in some sass along the way. 
 
